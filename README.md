@@ -12,10 +12,9 @@
     
     * [ 橘子老君 的知乎专栏](https://zhuanlan.zhihu.com/mathcrowd)
     
-    
 * 访问橘子数学主页: https://www.mathcrowd.cn
 
-* 了解更多橘子数学社区的项目: https://github.com/mathedu4all/mathcrowd_community
+* 了解更多橘子数学社区的项目: https://github.com/mathedu4all/mathcrowd-community
 
 
 
